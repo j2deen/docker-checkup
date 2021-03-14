@@ -1,8 +1,8 @@
-# install
+# This will install lighttpd and checkup in a container.
 
 ```
 # get docker compose and config
-git clone https://github.com/treemo/docker-checkup.git checkup
+git clone https://github.com/j2deen/docker-checkup.git checkup
 cd checkup
 
 # use sample configuration
